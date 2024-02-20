@@ -10,3 +10,9 @@ apscheduler
 requests
 psutil
 pyromod
+jinja2
+apscheduler
+pyshorteners
+psutil
+pyromod
+colorama
